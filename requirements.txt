@@ -1,2 +1,3 @@
 pycaret[full]
-optuna==3.4.0
+tensorflow == 2.7.0
+keras-tuner == 1.4.6
